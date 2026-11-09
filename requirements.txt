@@ -1,0 +1,4 @@
+tensorflow>=2.15,<2.17
+streamlit>=1.36,<2
+nltk>=3.9,<4
+numpy>=1.24,<2

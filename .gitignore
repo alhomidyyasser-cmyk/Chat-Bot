@@ -1,0 +1,15 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local application state and generated compatibility data
+.streamlit/
+chatbot_model.meta.json
+
+# Test, coverage, and editor files
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
